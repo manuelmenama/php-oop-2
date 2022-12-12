@@ -1,3 +1,11 @@
+<?php
+
+include_once __DIR__ . '/Models/Category.php';
+include_once __DIR__ . '/Models/Product.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +18,8 @@
   <title>Oop-pela!</title>
 </head>
 <body>
+
+
   
 </body>
 </html>
